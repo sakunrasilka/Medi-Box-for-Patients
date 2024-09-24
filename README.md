@@ -12,4 +12,9 @@ Designed PCB schematic from EasyEDA
 
 <img src="https://github.com/user-attachments/assets/7748d931-5ed2-44bc-8190-bc1b9d4cd4d9" alt="Wokwi project" width="400"/>
 
+Routed PCB
+
+<img src="https://github.com/user-attachments/assets/f0c91e59-d3de-401e-adb2-76ec4abb1452" alt="Wokwi project" width="400"/>
+
+
 
