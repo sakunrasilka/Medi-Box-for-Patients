@@ -14,8 +14,7 @@ Designed PCB schematic from EasyEDA
 
 Routed PCB
 
-<img src="https://github.com/user-attachments/assets/f0c91e59-d3de-401e-adb2-76ec4abb1452" alt="Wokwi project" width="400"/>
-<img src="https://github.com/user-attachments/assets/50647261-c70f-4088-80ba-8d5cb7f3325d" alt="Wokwi project" width="400"/>
+<img src="https://github.com/user-attachments/assets/f0c91e59-d3de-401e-adb2-76ec4abb1452" alt="Wokwi project" width="400"/> <img src="https://github.com/user-attachments/assets/50647261-c70f-4088-80ba-8d5cb7f3325d" alt="Wokwi project" width="400"/>
 
 
 
